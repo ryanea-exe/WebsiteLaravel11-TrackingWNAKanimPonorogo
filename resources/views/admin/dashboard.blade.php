@@ -105,9 +105,8 @@
         </div>
     </div>
 
-    <!-- CHARTS SECTION - Grid 2 kolom -->
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <!-- Chart Sebaran WNA Wilayah (setengah halaman) -->
+      
         <div class="glass rounded-2xl p-6 shadow-xl border border-gray-200 transition-all duration-300 hover:shadow-2xl overflow-hidden">
             <div class="absolute inset-0 bg-gradient-to-r from-blue-400/5 via-indigo-500/5 to-purple-500/10 rounded-2xl opacity-0 hover:opacity-100 transition-all duration-500 pointer-events-none"></div>
             <div class="relative z-10">
